@@ -48,4 +48,4 @@ The general pipeline of the task is mentioned below:-
   
     Inorder to expand the results, and number of match or non-match, consistency check was perfromed on the final result.
   
-  *Final reults and detailed pipleine of the project are mentioned in the report*
+  *Final results and detailed pipleine of the project are mentioned in the report*
